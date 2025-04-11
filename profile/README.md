@@ -5,4 +5,7 @@ DeepSafe is a groundbreaking crypto random AI verification network that leverage
 By harnessing distributed verification, multi-node collaboration, and intelligent data retrieval, DeepSafe delivers highly secure and efficient verification services for decentralized applications, fostering the deep integration of blockchain and artificial intelligence, and ultimately supporting the sustainable development of digital ecosystems.
 
 [LightPaper](https://github.com/deepsafe/lightpaper/blob/main/DeepSafe_Crypto_Random_AI_Verification_Network.pdf)
+
 [WhitePaper](https://github.com/deepsafe/whitepaper/blob/main/DeepSafe_A_Bitcoin_Verification_Layer.pdf)
+
+[Roadmap](https://github.com/deepsafe/roadmap)
