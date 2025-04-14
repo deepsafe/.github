@@ -9,3 +9,5 @@ By harnessing distributed verification, multi-node collaboration, and intelligen
 [WhitePaper](https://github.com/deepsafe/whitepaper/blob/main/DeepSafe_A_Bitcoin_Verification_Layer.pdf)
 
 [Roadmap](https://github.com/deepsafe/roadmap)
+
+[Tokenomics](https://github.com/deepsafe/tokenomics/blob/main/DeepSafe_Tokenomics.pdf)
