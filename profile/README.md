@@ -6,7 +6,7 @@ By harnessing distributed verification, multi-node collaboration, and intelligen
 
 [LightPaper](https://github.com/deepsafe/lightpaper/blob/main/DeepSafe_Crypto_Random_AI_Verification_Network.pdf)
 
-[WhitePaper](https://github.com/deepsafe/whitepaper/blob/main/DeepSafe_A_Bitcoin_Verification_Layer.pdf)
+[WhitePaper](https://github.com/deepsafe/whitepaper/blob/main/DeepSafe_A_Cryptography_Random_Verification_Layer.pdf)
 
 [Roadmap](https://github.com/deepsafe/roadmap)
 
